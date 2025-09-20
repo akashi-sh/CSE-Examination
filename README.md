@@ -1,11 +1,8 @@
 # CSE-Examination
 
-Instructions:
+The player starts at (0, 0).
+Enter N, S, E, or W to move in the respective direction.
+The program accepts both single-letter and full-word inputs (e.g., N or NORTH).
+After each move, the current position is displayed.
+Enter STOP to end the session and see the final position and whether you returned to the origin.
 
-Fork this repo and clone the fork onto your local computer.
-
-Make sure to create a local branch name examination/midterm-python-exam and accomplish the task given in that branch.
-
-Modify this README.md file to explain your code.
-
-Push the activity back to your forked remote repo.
